@@ -2,7 +2,7 @@ available_items = {"health potion": 10, "cake of the cure": 5, "green elixir": 2
 health_points = 20
 
 health_points += available_items.pop("stamina grains", 0)
-# health_points += available_items.pop("power stew", 0)
-# health_points += available_items.pop("mystic bread", 0)
+health_points += available_items.pop("power stew", 0)
+health_points += available_items.pop("mystic bread", 0)
 print(available_items)
 print(health_points)
