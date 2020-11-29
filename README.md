@@ -1,2 +1,2 @@
-# furtherIntoCoding-pythonThree
+# furtherIntoCodingPythonThree
 Further into coding!
